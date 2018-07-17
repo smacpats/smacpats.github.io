@@ -1,5 +1,5 @@
 Package: ru.domo.cocoatop64
-Version: 2.0.2beta
+Version: 2.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: Smacpats <test@test.test>
 Filename: debs//Tweaks/CocoaTop.deb
