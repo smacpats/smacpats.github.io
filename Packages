@@ -3,7 +3,7 @@ Version: 2.0.2 beta
 Architecture: iphoneos-arm
 Maintainer: Smacpats <test@test.test>
 Filename: debs//Tweaks/cocoatop.deb
-Size: 151,514
+Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
 SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
 SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
