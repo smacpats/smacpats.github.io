@@ -14,7 +14,7 @@ Depiction: https://smacpats.github.io/depic/Cocoatop/index.html
 Name: CocoaTop
 
 Package: net.pikabu.smacpats
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Smacpats <teest@test.test>
 Depends: mobilesubstrate, preferenceloader
