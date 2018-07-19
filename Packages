@@ -1,5 +1,5 @@
 Package: net.pikabu.smacpats
-Version: 1.0.2-1
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Smacpats <1@1>
 Depends: mobilesubstrate, preferenceloader
