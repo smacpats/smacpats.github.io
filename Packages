@@ -1,9 +1,9 @@
 Package: net.pikabu.smacpats
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Smacpats <1@1>
 Filename: /Users/spencermclaughlin/Desktop/smacpats.github.io/debs/Tweaks/Pikabu.deb
-Size: 215172
+Size: 214764
 MD5sum: 71ce6a9256dff0fa337085794eedd3e0
 SHA1: 21c288bfc12c2193090964dd6dab8d20f1fdf254
 SHA256: b503ee765f41486e135bb0d3f7ade1775d7958caa3ff19963dd0d30800d7770c
