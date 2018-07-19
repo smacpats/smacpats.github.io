@@ -1,16 +1,17 @@
 Package: net.pikabu.smacpats
-Version: 1.0-1
+Version: 1.0.2-1
 Architecture: iphoneos-arm
 Maintainer: Smacpats <1@1>
-Filename: debs//Tweaks/Pikabu.deb
+Depends: mobilesubstrate, preferenceloader
+Filename: debs//Tweaks/Pikabu102-1.deb
 Size: 214764
-MD5sum: 71ce6a9256dff0fa337085794eedd3e0
-SHA1: 21c288bfc12c2193090964dd6dab8d20f1fdf254
-SHA256: b503ee765f41486e135bb0d3f7ade1775d7958caa3ff19963dd0d30800d7770c
+MD5sum: a58dbf5554593768de7a730915aa9190
+SHA1: dfea71fa01eff1fad7a0a955daa473336c8fbf9b
+SHA256: f533bfdb1cfff849eb6f81351403bcbda086e32f861f22026b837a68d763fd25
 Section: Tweaks
 Description: Better volume HUD!
 Depiction: https://smacpats.github.io/depic/Pikabu/index.html
-Name: PikabuLite
+Name: Pikabu
 
 Package: ru.domo.cocoatop64
 Version: 2.0.2-1+debug
