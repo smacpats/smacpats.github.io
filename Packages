@@ -3,7 +3,7 @@ Version: 1.0.2-1
 Architecture: iphoneos-arm
 Maintainer: Smacpats <1@1>
 Depends: mobilesubstrate, preferenceloader
-Filename: debs//Tweaks/Pikabu102-1.deb
+Filename: debs//Tweaks/Pikabu102.deb
 Size: 214768
 MD5sum: a58dbf5554593768de7a730915aa9190
 SHA1: dfea71fa01eff1fad7a0a955daa473336c8fbf9b
