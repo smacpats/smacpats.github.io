@@ -10,5 +10,20 @@ SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 Section: Tweaks
 Description: Cocoatop for iOS 11
 Author: Domo <domo@rambler.ru>
-Depiction: http://bit.ly/2usVv70
+Depiction: https://smacpats.github.io/depic/Cocoatop/index.html
 Name: CocoaTop
+
+Package: net.pikabu.smacpats
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Smacpats <teest@test.test>
+Filename: debs//Tweaks/Pikabu.deb
+Size: 215504
+MD5sum: b45c43fa1f8f62ed97ba87c0931686ac
+SHA1: 2d3c1605ce734e365922662e3e3b1376e2db482a
+SHA256: 5711e6f318dd3b6c865b61e5c558a8a21ac975b7bce76a3aaacd73ce93304382
+Section: Tweaks
+Description: Better volume HUD for iOS!
+Author: Jeffrey Chan (@chan_jeffrey) <noemail@:P>
+Depiction: https://smacpats.github.io/depic/Pikabu/index.html
+Name: Pikabu
