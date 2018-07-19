@@ -14,15 +14,15 @@ Depiction: https://smacpats.github.io/depic/Cocoatop/index.html
 Name: CocoaTop
 
 Package: net.pikabu.smacpats
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: iphoneos-arm
 Maintainer: Smacpats <teest@test.test>
 Depends: mobilesubstrate, preferenceloader
 Filename: debs//Tweaks/Pikabu.deb
-Size: 214764
-MD5sum: 71ce6a9256dff0fa337085794eedd3e0
-SHA1: 21c288bfc12c2193090964dd6dab8d20f1fdf254
-SHA256: b503ee765f41486e135bb0d3f7ade1775d7958caa3ff19963dd0d30800d7770c
+Size: 215172
+MD5sum: 35c871d905ce13ff2e4fec706fda84dd
+SHA1: 7bf9f4715e1cc2c26c9d9486a3677fb10b37f456
+SHA256: eea0e8516281f76d3c865e5e426f1709d7ca1d6b7d5ade91036fc5461da99b47
 Section: Tweaks
 Description: Better volume HUD for iOS!
 Author: Jeffrey Chan (@chan_jeffrey) <noemail@:P>
