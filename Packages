@@ -2,7 +2,7 @@ Package: net.pikabu.smacpats
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Smacpats <1@1>
-Filename: /Users/spencermclaughlin/Desktop/smacpats.github.io/debs/Tweaks/Pikabu.deb
+Filename: debs//Tweaks/Pikabu.deb
 Size: 214764
 MD5sum: 71ce6a9256dff0fa337085794eedd3e0
 SHA1: 21c288bfc12c2193090964dd6dab8d20f1fdf254
@@ -18,7 +18,7 @@ Architecture: iphoneos-arm
 Maintainer: Domo
 Installed-Size: 742
 Conflicts: ru.domo.cocoatop
-Filename: /Users/spencermclaughlin/Desktop/smacpats.github.io/debs/Tweaks/CocoaTop.deb
+Filename: debs//Tweaks/CocoaTop.deb
 Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
 SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
