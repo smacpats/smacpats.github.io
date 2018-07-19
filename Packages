@@ -1,0 +1,30 @@
+Package: net.pikabu.smacpats
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Smacpats <1@1>
+Filename: /Users/spencermclaughlin/Desktop/smacpats.github.io/debs/Tweaks/Pikabu.deb
+Size: 215172
+MD5sum: 71ce6a9256dff0fa337085794eedd3e0
+SHA1: 21c288bfc12c2193090964dd6dab8d20f1fdf254
+SHA256: b503ee765f41486e135bb0d3f7ade1775d7958caa3ff19963dd0d30800d7770c
+Section: Tweaks
+Description: Better volume HUD!
+Depiction: https://smacpats.github.io/depic/Pikabu/index.html
+Name: PikabuLite
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: /Users/spencermclaughlin/Desktop/smacpats.github.io/debs/Tweaks/CocoaTop.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Depiction: https://smacpats.github.io/depic/Cocoatop/index.html
+Name: CocoaTop
