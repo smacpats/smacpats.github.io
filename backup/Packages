@@ -1,0 +1,14 @@
+Package: com.jeffrey.pikabulite
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Jeffrey Chan
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: /backup/com.jeffrey.pikabulite_1.1.0_iphoneos-arm.deb
+Size: 230470
+MD5sum: d3506d963d74a1ceb1540464363c06fa
+SHA1: 15c28d5e87152d56a420cff1dfd8eae3d22efa75
+SHA256: e95434dd3d021b22f55c6a903e52df347c200b325f62545db11b5854939ee604
+Section: Tweaks
+Description: Minimalistic volume hud on the notch.
+Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Name: Pikabu Lite
