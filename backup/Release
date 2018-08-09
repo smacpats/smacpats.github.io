@@ -1,9 +1,0 @@
-Origin: Smacpats’ backup Repo
-Label: Smacpats’ backup Repo
-Suite: stable
-Version: 1.0
-Codename: Smacpats
-Architectures: iphoneos-arm
-Components: main
-Description: Smacpats’ backup Repo
-MD5Sum:
