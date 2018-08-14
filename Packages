@@ -53,3 +53,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigshotjbD
 Dev: tapthaker
 Name: BigShotJb (iOS 11)
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.rpetrich.cacheclearer
+Version: 0.1a
+Architecture: iphoneos-arm
+Maintainer: thebigboss.org <http://thebigboss.org>
+Installed-Size: 72
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Filename: debs//Tweaks/com.rpetrich.cacheclearer_0.1a_iphoneos-arm_julioverne.deb
+Size: 9270
+MD5sum: 2d33c0916b0dfcf703a97f1e23bb6618
+SHA1: 41596ab2f83b5b6db7e969a1e729ea05c0e05a0d
+SHA256: a358b35eb5878c8cb63200e4780b9d36b62a4e31a54e794230fcfe1ed8c3c3aa
+Section: Tweaks
+Description: Clear app caches from the Usage section in Settings
+Tag: purpose::extension
+Author: Ryan Petrich/julioverne <rpetrich+cacheclearer@gmail.com>
+Depiction: https://smacpats.github.io/depic/Cacheclearer/index.html
+Dev: rpetrich/julioverne
+Name: CacheClearer11
+
