@@ -16,7 +16,11 @@
 	<descriptionlist>
 		<description>This will be up until Jeffrey puts it into another repo and he has not tweeted and his website has been down since April so that is probably never. Options can be configured in settings.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+				<image>pikabu.jpg</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
