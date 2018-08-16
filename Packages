@@ -28,7 +28,7 @@ SHA256: e95434dd3d021b22f55c6a903e52df347c200b325f62545db11b5854939ee604
 Section: Tweaks
 Description: Minimalistic volume hud on the notch.
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
-Depiction: https://smacpats.github.io/depic/Pikabu/index.html
+Depiction: https://smacpats.github.io/depic/?p=Pikabu
 Name: Pikabu Lite
 
 Package: com.tapthaker.bigshotjb11
