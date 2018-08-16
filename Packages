@@ -12,7 +12,7 @@ SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 Section: Utilities
 Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
-Depiction: https://smacpats.github.io/depic/Cocoatop/info.xml
+Depiction: https://smacpats.github.io/depic/?p=Cocoatop
 Name: CocoaTop
 
 Package: com.jeffrey.pikabulite
