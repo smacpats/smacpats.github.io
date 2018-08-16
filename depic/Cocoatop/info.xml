@@ -12,7 +12,11 @@
 	<descriptionlist>
 		<description>In my repo until the developer submits it into another.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+				<image>CocoatopHome.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>iOS 11 support</change>
 	</changelog>
