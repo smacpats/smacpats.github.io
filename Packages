@@ -31,48 +31,6 @@ Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depiction: https://smacpats.github.io/depic/?p=Pikabu
 Name: Pikabu Lite
 
-Package: com.tapthaker.bigshotjb11
-Version: 0.0.2-2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 212
-Depends: firmware (>= 8.0), mobilesubstrate, libactivator (>= 1.8.3), com.rpetrich.rocketbootstrap
-Conflicts: com.tapthaker.bigshotjb
-Filename: debs//Tweaks/com.tapthaker.bigshotjb11_0.0.2-2_iphoneos-arm_julioverne.deb
-Size: 32840
-MD5sum: b1cc164bfec0012f4985b11e85be3a0e
-SHA1: 8a85453fef2aaafd8646b2cb5c81177e56149287
-SHA256: 6c2f56f292e64e2cddb1a49f00d76a8ad790fc00f7c6bf6b56bc0e333290c11e
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigshotjbDp
-Description: take screenshots of full vertical scrollable area
-Tag: purpose::extension, compatible::ios9
-Author: Tapan Thaker (tapthaker) <tapan.d.thaker@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigshotjbDp
-Dev: tapthaker
-Name: BigShotJb (iOS 11)
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.rpetrich.cacheclearer
-Version: 0.1a
-Architecture: iphoneos-arm
-Maintainer: thebigboss.org <http://thebigboss.org>
-Installed-Size: 72
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
-Filename: debs//Tweaks/com.rpetrich.cacheclearer_0.1a_iphoneos-arm_julioverne.deb
-Size: 9270
-MD5sum: 2d33c0916b0dfcf703a97f1e23bb6618
-SHA1: 41596ab2f83b5b6db7e969a1e729ea05c0e05a0d
-SHA256: a358b35eb5878c8cb63200e4780b9d36b62a4e31a54e794230fcfe1ed8c3c3aa
-Section: Tweaks
-Description: Clear app caches from the Usage section in Settings
-Tag: purpose::extension
-Author: Ryan Petrich/julioverne <rpetrich+cacheclearer@gmail.com>
-Depiction: https://smacpats.github.io/depic/Cacheclearer/index.html
-Dev: rpetrich/julioverne
-Name: CacheClearer11
-
 Package: com.artikus.cydiaxi
 Version: 0.1
 Architecture: iphoneos-arm
