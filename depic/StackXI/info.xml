@@ -1,7 +1,7 @@
 <package>
-	<id>me.umangis.libertas</id>
-	<name>Libertas</name>
-	<version>1.0.0</version>
+	<id>io.ominousness.stackxi</id>
+	<name>StackXI</name>
+	<version>0.1.0-beta3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This will be up until Umang puts it into another repo and he isn't actively working on this, so that will probably be a while. THIS IS AN EXTREMELY EARLY BETA. The only app I can confirm this works in is fortnite rn. 
+		<description> THIS IS AN EXTREMELY EARLY BETA. USE AT YOUR OWN RISK. DON'T USE THIS IF YOU GET ANY IMPORTANT NOTIFICATIONS OR CARE ABOUT RECEIVING NOTIFICATIONS!!! I HIGHLY DISCOURAGE USING THIS ON YOUR DAILY DRIVER. YOU'VE BEEN WARNED.
 		</description>
 	</descriptionlist>
 	<screenshots>

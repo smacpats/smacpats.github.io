@@ -62,3 +62,20 @@ Description: You aren't jailbroken.
 Author: Umang Raghuvanshi
 Depiction: https://smacpats.github.io/depic/?p=libertas
 Name: Libertas
+
+Package: io.ominousness.stackxi
+Version: 0.1.0-beta3
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 72
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs//Tweaks/io.ominousness.stackxi_0.1.0-beta3_iphoneos-arm.deb
+Size: 9056
+MD5sum: 442d0423c1afdc960328a9bc16add17f
+SHA1: 78f7a3dbe68a65a6d55d00613f78837c66a54cec
+SHA256: 11ea1e41701100563888fa255741e7a72bd75febcd0a46bf47ed8030a0c972fc
+Section: Tweaks
+Description: Grouped notifications, iOS 12 style.
+Author: Ominousness
+Depiction: https://smacpats.github.io/depic/?p=StackXI
+Name: StackXI
