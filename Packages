@@ -1,7 +1,7 @@
 Package: ru.domo.cocoatop64
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm
-Maintainer: Domo
+Maintainer: Smacpats
 Installed-Size: 742
 Conflicts: ru.domo.cocoatop
 Filename: debs//Tweaks/CocoaTop.deb
@@ -18,7 +18,7 @@ Name: CocoaTop
 Package: com.jeffrey.pikabulite
 Version: 1.1.0
 Architecture: iphoneos-arm
-Maintainer: Jeffrey Chan
+Maintainer: Smacpats
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Filename: debs//Tweaks/com.jeffrey.pikabulite_1.1.0_iphoneos-arm.deb
 Size: 230470
@@ -34,7 +34,7 @@ Name: Pikabu Lite
 Package: com.artikus.cydiaxi
 Version: 0.1
 Architecture: iphoneos-arm
-Maintainer: ArtikusHG
+Maintainer: Smacpats
 Filename: debs//Tweaks/com.artikus.cydiaxi_0.2_iphoneos-arm.deb
 Size: 82298
 MD5sum: 10f1d09e2c6c4a4cda6b190c4b8ae9dd
@@ -45,3 +45,20 @@ Description: Make Cydia feel more iOS 11-ish.
 Author: ArtikusHG
 Depiction: https://smacpats.github.io/depic/?p=CydiaXI
 Name: CydiaXI
+
+Package: me.umangis.libertas
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//Tweaks/me.umangis.libertas_1.0.0_iphoneos-arm.deb
+Size: 7752
+MD5sum: 0a926eb25a7ac0174846f611c1300f90
+SHA1: 0b1ac63a58e9c118e232a939897d999c028c8cc8
+SHA256: 866d96b5288f82c2e05385bee22040b9b164d3c0c8fed9e2033d799390397f03
+Section: Tweaks
+Description: You aren't jailbroken.
+Author: Umang Raghuvanshi
+Depiction: https://smacpats.github.io/depic/?p=libertas
+Name: Libertas
