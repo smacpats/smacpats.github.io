@@ -1,7 +1,7 @@
 <package>
 	<id>io.ominousness.stackxi</id>
 	<name>StackXI</name>
-	<version>0.1.0-beta3</version>
+	<version>0.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -20,7 +20,7 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<change>Initial beta release</change>
+		<change>Fixes many issues with the first release.</change>
 	</changelog>
 	<links></links>
 </package>
