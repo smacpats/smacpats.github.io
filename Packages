@@ -62,3 +62,22 @@ Description: You aren't jailbroken.
 Author: Umang Raghuvanshi
 Depiction: https://smacpats.github.io/depic/?p=libertas
 Name: Libertas
+
+Package: com.pwn20wnd.semirestore11
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 188
+Depends: cy+cpu.arm64, coreutils-bin, firmware (>= 11.3), firmware (<< 11.4.1)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Filename: debs//Tweaks/com.pwn20wnd.semirestore11_1.1-1_iphoneos-arm.deb
+Size: 50824
+MD5sum: 712c8859c54c5735523a39e9ec084b72
+SHA1: 912729a4ecea14cf4adc6d01f0090ad551921597
+SHA256: 6a37a6c12ad194d0465ded3591dc25c002a68c301e696fb1ec24187d5999371f
+Section: System
+Description: A full system unjailbreaker that supports all devices running iOS 11.3 to 11.4 Beta 3.
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depiction: https://smacpats.github.io/depic/?p=Rollectra
+Name: SemiRestore11 / Rollectra

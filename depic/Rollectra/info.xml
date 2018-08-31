@@ -1,0 +1,28 @@
+<package>
+	<id>com.pwn20wnd.semirestore11</id>
+	<name>Rollectra/Semirestore11</name>
+	<version>1.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.3</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Unjailbreaking tool created by pwn20wnd. ONLY WORKS ABOVE iOS 11.3!!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+				<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Adds unrecommended option to not clear system data.</change>
+	</changelog>
+	<links></links>
+</package>
