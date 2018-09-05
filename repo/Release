@@ -1,0 +1,9 @@
+Origin: Smacpats’ Repo
+Label: Smacpats’ Repo
+Suite: stable
+Version: 1.0
+Codename: Smacpats
+Architectures: iphoneos-arm
+Components: main
+Description: Smacpats’ Repo
+MD5Sum:

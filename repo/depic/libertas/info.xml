@@ -1,0 +1,26 @@
+<package>
+	<id>me.umangis.libertas</id>
+	<name>Libertas</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This will be up until Umang puts it into another repo and he isn't actively working on this, so that will probably be a while. THIS IS AN EXTREMELY EARLY BETA. The only app I can confirm this works in is fortnite rn. 
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial beta release</change>
+	</changelog>
+	<links></links>
+</package>

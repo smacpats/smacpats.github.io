@@ -1,0 +1,64 @@
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: debs//Tweaks/CocoaTop.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Depiction: https://smacpats.github.io/depic/?p=Cocoatop
+Name: CocoaTop
+
+Package: com.jeffrey.pikabulite
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: debs//Tweaks/com.jeffrey.pikabulite_1.1.0_iphoneos-arm.deb
+Size: 230470
+MD5sum: d3506d963d74a1ceb1540464363c06fa
+SHA1: 15c28d5e87152d56a420cff1dfd8eae3d22efa75
+SHA256: e95434dd3d021b22f55c6a903e52df347c200b325f62545db11b5854939ee604
+Section: Tweaks
+Description: Minimalistic volume hud on the notch.
+Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Depiction: https://smacpats.github.io/depic/?p=Pikabu
+Name: Pikabu Lite
+
+Package: com.artikus.cydiaxi
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Filename: debs//Tweaks/com.artikus.cydiaxi_0.2_iphoneos-arm.deb
+Size: 82298
+MD5sum: 10f1d09e2c6c4a4cda6b190c4b8ae9dd
+SHA1: 84a3f22db13e2979069e8178a1cff5d6270692b3
+SHA256: f8d60080a14a600ea196412f738427c0bbafc6f6f2326325a1bb60b2ae0e08c6
+Section: Cydia Category
+Description: Make Cydia feel more iOS 11-ish.
+Author: ArtikusHG
+Depiction: https://smacpats.github.io/depic/?p=CydiaXI
+Name: CydiaXI
+
+Package: me.umangis.libertas
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs//Tweaks/me.umangis.libertas_1.0.0_iphoneos-arm.deb
+Size: 7752
+MD5sum: 0a926eb25a7ac0174846f611c1300f90
+SHA1: 0b1ac63a58e9c118e232a939897d999c028c8cc8
+SHA256: 866d96b5288f82c2e05385bee22040b9b164d3c0c8fed9e2033d799390397f03
+Section: Tweaks
+Description: You aren't jailbroken.
+Author: Umang Raghuvanshi
+Depiction: https://smacpats.github.io/depic/?p=libertas
+Name: Libertas

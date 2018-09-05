@@ -1,0 +1,25 @@
+<package>
+	<id>com.artikus.cydiaxi</id>
+	<name>cydiaXI</name>
+	<version>Beta 2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>An old version of CydiaXI which doesn't really change much. If you want the custom launch screen and icons, but like the stock cydia homepage this is the version for you. </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+				<image>Cydiaxi.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links></links>
+</package>
