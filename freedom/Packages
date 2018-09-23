@@ -1,0 +1,14 @@
+Package: io.smacpats.freedom
+Version: 0.1.3
+Architecture: iphoneos-arm
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.reddestdream.minimalhostsblocker, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Filename: debs//Tweaks/Freedom™.deb
+Size: 1528
+MD5sum: d345466b5c6b7ecd6d9d28afde4348e5
+SHA1: f360e598d070398ffc0c36efe53f8ec71408eea6
+SHA256: 094e0845de990ff392fe18b2c5f22a6c046abbb797c4ed721762ba6cfbca5867
+Section: Tweaks
+Description: Freedom™
+Author: Smacpats
+Depiction: https://smacpats.github.io/freedom/depic/?p=freedom
+Name: Freedom™

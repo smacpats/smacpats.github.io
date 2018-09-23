@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>yell at me #1</name>
+            <url>https://twitter.com/smacpats</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+        <link>
+            <name>yell at me #2</name>
+            <url>https://old.reddit.com/message/compose/?to=smacpats111111</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
+    </footerlinks>
+</repo>
