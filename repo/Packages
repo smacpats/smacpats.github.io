@@ -62,3 +62,37 @@ Description: You aren't jailbroken.
 Author: Umang Raghuvanshi
 Depiction: https://smacpats.github.io/depic/?p=libertas
 Name: Libertas
+
+Package: com.tonyk7.backgroundkill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: debs//Tweaks/com.tonyk7.backgroundkill_0.0.1_iphoneos-arm.deb
+Size: 17472
+MD5sum: c3eebe6d3fc67f981a5ccade27b5b63d
+SHA1: b0dec84bddbf9371ee3f26ba033704f2887e75d5
+SHA256: 5c13ab3c56094155525b9c1e34a035f770a7f2cb3ccd2d9befc9e30ca339cfd3
+Section: Tweaks
+Description: Kill chosen apps from background on exit. Supports iOS 11
+Author: Tony
+Depiction: https://smacpats.github.io/repo/depic?p=BackgroundKill
+Name: BackgroundKill
+
+Package: com.tonyk7.shadowed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs//Tweaks/com.tonyk7.shadowed_0.0.1_iphoneos-arm.deb
+Size: 15806
+MD5sum: 66e24e76a9a6fec63f6f5a37e6956755
+SHA1: c0fc5e01d84b459ef15ad43214c0ce78dd536387
+SHA256: 72d2b3c86abb232c18323ae2881fdcf228888dee87d02380da3f2a8aa6bcd98e
+Section: Tweaks
+Description: Hide selected apps in app switcher. Supports iOS 11.X
+Author: Tony
+Depiction: https://smacpats.github.io/repo/depic?p=Shadowed
+Name: Shadowed

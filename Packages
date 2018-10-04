@@ -12,7 +12,7 @@ SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 Section: Utilities
 Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
-Depiction: https://smacpats.github.io/depic/?p=Cocoatop
+Depiction: https://smacpats.github.io/repo/depic/?p=Cocoatop
 Name: CocoaTop
 
 Package: com.jeffrey.pikabulite
@@ -28,7 +28,7 @@ SHA256: e95434dd3d021b22f55c6a903e52df347c200b325f62545db11b5854939ee604
 Section: Tweaks
 Description: Minimalistic volume hud on the notch.
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
-Depiction: https://smacpats.github.io/depic/?p=Pikabu
+Depiction: https://smacpats.github.io/repo/depic/?p=Pikabu
 Name: Pikabu Lite
 
 Package: com.artikus.cydiaxi
@@ -43,7 +43,7 @@ SHA256: f8d60080a14a600ea196412f738427c0bbafc6f6f2326325a1bb60b2ae0e08c6
 Section: Cydia Category
 Description: Make Cydia feel more iOS 11-ish.
 Author: ArtikusHG
-Depiction: https://smacpats.github.io/depic/?p=CydiaXI
+Depiction: https://smacpats.github.io/repo/depic/?p=CydiaXI
 Name: CydiaXI
 
 Package: me.umangis.libertas
@@ -60,5 +60,5 @@ SHA256: 866d96b5288f82c2e05385bee22040b9b164d3c0c8fed9e2033d799390397f03
 Section: Tweaks
 Description: You aren't jailbroken.
 Author: Umang Raghuvanshi
-Depiction: https://smacpats.github.io/depic/?p=libertas
+Depiction: https://smacpats.github.io/repo/depic/?p=libertas
 Name: Libertas
