@@ -4,7 +4,7 @@
 	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>11.0</miniOS>
 			<maxiOS>11.4.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
@@ -24,7 +24,7 @@
 	<links>
 		<link>
 			<name>emojiport repo</name>
-			<url>http://bit.ly/2C1RHhM</url>
+			<url>http://bit.ly/2C5KopB</url>
 		</link>
 	</links>
 </package>
