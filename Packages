@@ -62,3 +62,18 @@ Description: You aren't jailbroken.
 Author: Umang Raghuvanshi
 Depiction: https://smacpats.github.io/oldrepo/index.html
 Name: Libertas
+
+Package: io.smacpats.emojiportinstaller
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: smacpats
+Depends: com.ps.emojiportwt
+Filename: debs//Tweaks/EPI.deb
+Size: 44053076
+MD5sum: 4378288c0b643dbbd5c8a9c8fe1a6454
+SHA1: 0f4ab1888498924b1bc5258928ae9d57b18f5547
+SHA256: ea529232ec5af6bb7941910adf5f992ede59956481c62013a6436021b5dfd55c
+Section: EmojiPort
+Description: Install emojiport and iOS 12.1 emojis automatically
+Author: Smacpats
+Name: EmojiPort Installer
