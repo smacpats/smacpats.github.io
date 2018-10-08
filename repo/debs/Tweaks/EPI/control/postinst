@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cp -a /System/Library/Fonts/Core/AppleColorEmoji@2x.ttc /var/mobile/Documents/EmojiPortInstaller/backup
+echo "Overwriting font file..."
+cp -a /var/mobile/Documents/EmojiPortInstaller//121emojis/AppleColorEmoji@2x.ttc /System/Library/Fonts/Core
+echo "Overwrite complete!"
+killall -9 discoveryd
+killall -9 mDNSResponder
+rm -rf .git
+exit 0
