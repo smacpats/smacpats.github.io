@@ -14,12 +14,17 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, click <a href="http://bit.ly/2C1RHhM">here.</a> Source code is on github. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github. </description>
+		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, scroll down and add it. Source code is on github. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github. </description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>emojiport repo</name>
+			<url>http://bit.ly/2C1RHhM</url>
+		</link>
+	</links>
 </package>
