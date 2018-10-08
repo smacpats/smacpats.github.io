@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.3</version>
+		<change>Saves ~50 MB compared to v1.0.2</change>
+		<change>Upon installation/uninstallation, it now always will prompt you to respring</change>
+	</changes>
+	<changes>
 		<version>1.0.2</version>
 		<change>Bugfix</change>
 	</changes>
