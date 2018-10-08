@@ -20,7 +20,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: smacpats
 Depends: com.ps.emojiportwt
-Filename: debs//Tweaks/emojiport installer.deb
+Filename: debs//Tweaks/emojiportinstaller.deb
 Size: 44053768
 MD5sum: 84ab400a5617ed5f860cec98022d358b
 SHA1: 0511980af173edabc82a8922c0e1738867354099
