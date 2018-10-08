@@ -15,84 +15,18 @@ Author: Domo
 Depiction: https://smacpats.github.io/repo/depic/?p=Cocoatop
 Name: CocoaTop
 
-Package: com.jeffrey.pikabulite
-Version: 1.1.0
+Package: io.smacpats.emojiportinstaller
+Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Smacpats
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
-Filename: debs//Tweaks/com.jeffrey.pikabulite_1.1.0_iphoneos-arm.deb
-Size: 230470
-MD5sum: d3506d963d74a1ceb1540464363c06fa
-SHA1: 15c28d5e87152d56a420cff1dfd8eae3d22efa75
-SHA256: e95434dd3d021b22f55c6a903e52df347c200b325f62545db11b5854939ee604
-Section: Tweaks
-Description: Minimalistic volume hud on the notch.
-Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
-Depiction: https://smacpats.github.io/repo/depic/?p=Pikabu
-Name: Pikabu Lite
-
-Package: com.artikus.cydiaxi
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Smacpats
-Filename: debs//Tweaks/com.artikus.cydiaxi_0.2_iphoneos-arm.deb
-Size: 82298
-MD5sum: 10f1d09e2c6c4a4cda6b190c4b8ae9dd
-SHA1: 84a3f22db13e2979069e8178a1cff5d6270692b3
-SHA256: f8d60080a14a600ea196412f738427c0bbafc6f6f2326325a1bb60b2ae0e08c6
-Section: Cydia Category
-Description: Make Cydia feel more iOS 11-ish.
-Author: ArtikusHG
-Depiction: https://smacpats.github.io/repo/depic/?p=CydiaXI
-Name: CydiaXI
-
-Package: me.umangis.libertas
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Smacpats
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: debs//Tweaks/me.umangis.libertas_1.0.0_iphoneos-arm.deb
-Size: 7752
-MD5sum: 0a926eb25a7ac0174846f611c1300f90
-SHA1: 0b1ac63a58e9c118e232a939897d999c028c8cc8
-SHA256: 866d96b5288f82c2e05385bee22040b9b164d3c0c8fed9e2033d799390397f03
-Section: Tweaks
-Description: You aren't jailbroken.
-Author: Umang Raghuvanshi
-Depiction: https://smacpats.github.io/repo/depic/?p=libertas
-Name: Libertas
-
-Package: com.tonyk7.backgroundkill
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Smacpats
-Installed-Size: 176
-Depends: mobilesubstrate
-Filename: debs//Tweaks/com.tonyk7.backgroundkill_0.0.1_iphoneos-arm.deb
-Size: 17472
-MD5sum: c3eebe6d3fc67f981a5ccade27b5b63d
-SHA1: b0dec84bddbf9371ee3f26ba033704f2887e75d5
-SHA256: 5c13ab3c56094155525b9c1e34a035f770a7f2cb3ccd2d9befc9e30ca339cfd3
-Section: Tweaks
-Description: Kill chosen apps from background on exit. Supports iOS 11
-Author: Tony
-Depiction: https://smacpats.github.io/repo/depic?p=BackgroundKill
-Name: BackgroundKill
-
-Package: com.tonyk7.shadowed
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Smacpats
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: debs//Tweaks/com.tonyk7.shadowed_0.0.1_iphoneos-arm.deb
-Size: 15806
-MD5sum: 66e24e76a9a6fec63f6f5a37e6956755
-SHA1: c0fc5e01d84b459ef15ad43214c0ce78dd536387
-SHA256: 72d2b3c86abb232c18323ae2881fdcf228888dee87d02380da3f2a8aa6bcd98e
-Section: Tweaks
-Description: Hide selected apps in app switcher. Supports iOS 11.X
-Author: Tony
-Depiction: https://smacpats.github.io/repo/depic?p=Shadowed
-Name: Shadowed
+Maintainer: smacpats
+Depends: com.ps.emojiportwt
+Filename: debs//Tweaks/io.smacpats.emojiportinstaller.deb
+Size: 44052912
+MD5sum: c6d2f789b9fdd71f394f414006528e8b
+SHA1: 6014427fffd97ada1b76371abdc6470a55272c61
+SHA256: 282483076e564257fd980975d9ae926b513f131a076ce77c4c195dac02d9f77d
+Section: Emojis
+Description: Install emojiport and iOS 12.1 emojis automatically
+Author: Smacpats
+Depiction: https://smacpats.github.io/repo/depic/?p=e
+Name: EmojiPort Installer
