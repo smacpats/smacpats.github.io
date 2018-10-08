@@ -28,5 +28,5 @@ SHA256: ff7131cf04606d83e6775c6c6ae3bd12ff13e736cace4948544c780f9d8befda
 Section: EmojiPort
 Description: Install emojiport and iOS 12.1 emojis automatically
 Author: Smacpats
-Depiction: https://smacpats.github.io/repo/depic/?p=e
+Depiction: http://bit.ly/2C6rsae
 Name: EmojiPortInstaller
