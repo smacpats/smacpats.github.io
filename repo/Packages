@@ -19,7 +19,7 @@ Package: io.smacpats.emojiportinstaller
 Version: 1.0.3-1
 Architecture: iphoneos-arm
 Maintainer: smacpats
-Depends: com.ps.emojiportwt
+Depends: com.ps.emojiportwt, mobilesubstrate
 Filename: debs//Tweaks/EPI.deb
 Size: 44053084
 MD5sum: 29916cbb313ef046ba9af9969d2748ad
@@ -29,4 +29,4 @@ Section: EmojiPort
 Description: Install emojiport and iOS 12.1 emojis automatically
 Author: Smacpats
 Depiction: http://bit.ly/2C6rsae
-Name: EmojiPortInstaller
+Name: EmojiPort Installer
