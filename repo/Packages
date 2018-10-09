@@ -16,7 +16,7 @@ Depiction: https://smacpats.github.io/repo/depic/?p=Cocoatop
 Name: CocoaTop
 
 Package: io.smacpats.emojiportinstaller
-Version: 1.0.3
+Version: 1.0.3-1
 Architecture: iphoneos-arm
 Maintainer: smacpats
 Depends: com.ps.emojiportwt
