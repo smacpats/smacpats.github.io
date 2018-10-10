@@ -4,7 +4,7 @@
 	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>10.0</miniOS>
 			<maxiOS>11.4.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
@@ -22,8 +22,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Saves ~50 MB compared to v1.0.2</change>
-		<change>Upon installation/uninstallation, it now always will prompt you to respring</change>
+		<change>iOS 10 support (not for meridan though!)</change>
 	</changelog>
 	<links>
 		<link>
