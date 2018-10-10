@@ -30,18 +30,3 @@ Description: Install emojiport and iOS 12.1 emojis automatically
 Author: Smacpats
 Depiction: http://bit.ly/2C6rsae
 Name: EmojiPort Installer
-
-Package: io.smacpats.a7downgrade
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: smacpats
-Filename: debs//Tweaks/5s-downgrade-tweak.deb
-Size: 10780
-MD5sum: 24f61a81768dc9a0af937cf6553349a7
-SHA1: 1796c1b40e968fab59a5f7bf3610dea08bd7b61c
-SHA256: 2db39fd7b6423654cafcfb09c97381f73d2c4a41bb9ec4189f9fa7e56cc75e12
-Section: Downgrade
-Description: Downgrade your A7 device to iOS 10.3.3!
-Author: Smacpats
-Depiction: http://bit.ly/2RxzYEp
-Name: A7 downgrade
