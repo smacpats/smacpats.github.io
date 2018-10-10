@@ -1,0 +1,30 @@
+<package>
+	<id>io.smacpats.a7downgrade</id>
+	<name>A7 downgrade</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> Tweak to help you downgrade your A7 device to iOS 10.3.3. Install this, reboot and go to the software update settings to install 10.3.3. VERY EXPIREMENTAL. MIGHT BOOTLOOP YOU. I don't take responsibility for what this could do to your device. ONLY INSTALL THIS ON AN A7 DEVICE IF YOU INTEND TO DOWNGRADE!! Contact Smacpats if you have issues, or for a version of electra without version checks, if you mess up and want to stay on 11.3.1.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>source code</name>
+			<url>https://github.com/smacpats/5s-downgrade-tweak</url>
+		</link>
+	</links>
+</package>
