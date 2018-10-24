@@ -30,3 +30,19 @@ Description: Install emojiport and iOS 12.1 emojis automatically
 Author: Smacpats
 Depiction: http://bit.ly/2C6rsae
 Name: EmojiPort Installer
+
+Package: io.smacpats.spotifyadblock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.reddestdream.minimalhostsblocker, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Filename: debs//Tweaks/Spotify-adblock.deb
+Size: 5740
+MD5sum: c3b2f73848985a1769ab35d002756180
+SHA1: 8e8015975ae0f31474dc075749c38396e2c11472
+SHA256: 94a52f33d75167655856407066a5bfd54e66d905ddb54871f4a9468818b55494
+Section: Tweaks
+Description: spotify adblock.
+Author: Smacpats
+Depiction: http://bit.ly/2D2rBg4
+Name: SpotifyAdBlock

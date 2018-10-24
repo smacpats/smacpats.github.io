@@ -1,0 +1,24 @@
+<package>
+	<id>io.smacpats.spotifyadblock</id>
+	<name>Spotify Ad Blocker</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Spotify adblocker. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github. Works on Unc0ver and electra. </description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+	</links>
+</package>
