@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, scroll down and add it. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github. Works on Unc0ver and electra. </description>
+		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, scroll down and add it. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -24,10 +24,4 @@
 	<changelog>
 		<change>Actual iOS 10 support! Sorry, this was overdue!</change>
 	</changelog>
-	<links>
-		<link>
-			<name>emojiport repo</name>
-			<url>http://bit.ly/2C5KopB</url>
-		</link>
-	</links>
 </package>
