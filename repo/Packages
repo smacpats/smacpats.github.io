@@ -28,7 +28,7 @@ SHA256: 1fe27ce137e67dc1169553fcc847ece76b18806185864118b6c0a0e50d98661c
 Section: EmojiPort
 Description: Install emojiport and iOS 12.1 emojis automatically
 Author: Smacpats
-Depiction: http://bit.ly/2qn1qZc
+Depiction: http://bit.ly/2C6rsae
 Name: EmojiPort Installer
 
 Package: io.smacpats.spotifyadblock

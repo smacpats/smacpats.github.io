@@ -1,7 +1,7 @@
 <package>
 	<id>io.smacpats.emojiportinstaller</id>
 	<name>EmojiPort Installer</name>
-	<version>1.0.5</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, scroll down and add it. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github.</description>
+		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, scroll down and add it. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github. Works on Unc0ver and electra. </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
