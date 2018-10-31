@@ -16,15 +16,15 @@ Depiction: http://bit.ly/2OXuF2y
 Name: CocoaTop
 
 Package: io.smacpats.emojiportinstaller
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: smacpats
 Depends: com.ps.emojiportwt, mobilesubstrate
 Filename: debs//Tweaks/EPI.deb
-Size: 94904476
-MD5sum: d9941743409646345181dadbf38da409
-SHA1: d6f644d80b131cbb5d12cda7771e32f1b7037ee2
-SHA256: 8f91a84fb8ca679358d9622bdee62bed23bad32baa461752e822717a091c4bf2
+Size: 98754752
+MD5sum: 9ecae961202123e5864f692cad29e1f3
+SHA1: fea03dd2c3dcf47b7552bbb4ca3795eaa08b6b11
+SHA256: 1fe27ce137e67dc1169553fcc847ece76b18806185864118b6c0a0e50d98661c
 Section: EmojiPort
 Description: Install emojiport and iOS 12.1 emojis automatically
 Author: Smacpats
