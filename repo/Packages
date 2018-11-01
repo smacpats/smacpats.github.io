@@ -22,9 +22,9 @@ Maintainer: smacpats
 Depends: com.ps.emojiportwt, mobilesubstrate
 Filename: debs//Tweaks/EPI106.deb
 Size: 44697792
-MD5sum: 043a49a9d7bfa500565c9c0431a8a5bc
-SHA1: 0bfd138bdf803e256ac596de2b2029249ad7fb75
-SHA256: 885e3b07100b91f8aa812ac5a33fcb3056cfc9f1954d5f814e1784da048dd01c
+MD5sum: 0464966c990aadcacfd854e37241c9fc
+SHA1: 9002a8624f5715ba387335a9e084d305a1dd19f2
+SHA256: 08a6241664e211b71bc273263bb3edb0cfbeb3312977c091133ae1f908bc70a9
 Section: EmojiPort
 Description: Install emojiport and iOS 12.1 emojis automatically
 Author: Smacpats
