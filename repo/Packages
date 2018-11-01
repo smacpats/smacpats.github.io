@@ -16,11 +16,11 @@ Depiction: http://bit.ly/2OXuF2y
 Name: CocoaTop
 
 Package: io.smacpats.emojiportinstaller
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: smacpats
 Depends: com.ps.emojiportwt, mobilesubstrate
-Filename: debs//Tweaks/EPI106.deb
+Filename: debs//Tweaks/EPI.deb
 Size: 44697792
 MD5sum: 0464966c990aadcacfd854e37241c9fc
 SHA1: 9002a8624f5715ba387335a9e084d305a1dd19f2
