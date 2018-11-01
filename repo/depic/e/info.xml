@@ -24,6 +24,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Actual iOS 10 support! Sorry, this was overdue!</change>
+		<change>Should save ~50 mb of storage compared to 1.0.5.</change>
 	</changelog>
 </package>

@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.6</version>
+		<change>Should save ~50 mb of storage compared to 1.0.5.</change>
+	</changes>
+	<changes>
 		<version>1.0.5</version>
 		<change>Actual iOS 10 support! Sorry, this was overdue!</change>
 	</changes>
