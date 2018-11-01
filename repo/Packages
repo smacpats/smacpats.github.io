@@ -20,7 +20,7 @@ Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: smacpats
 Depends: com.ps.emojiportwt, mobilesubstrate
-Filename: debs//Tweaks/EPI.deb
+Filename: debs//Tweaks/EPI105.deb
 Size: 98754752
 MD5sum: 9ecae961202123e5864f692cad29e1f3
 SHA1: fea03dd2c3dcf47b7552bbb4ca3795eaa08b6b11
