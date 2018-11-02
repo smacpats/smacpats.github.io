@@ -15,7 +15,6 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, scroll down and add it. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github.</description>
-   	<description>DOWNGRADE EMOJIPORT TO 1.2.2F TO FIX THE SELECTION BUG ON SOME OF THE EMOJIS.</description>
 		<description>DOES NOT WORK ON iOS 10.x KPPLESS JAILBREAKS, AND WILL BREAK CYDIA ON MERIDAN.</description>
 	</descriptionlist>
 	<screenshots>
