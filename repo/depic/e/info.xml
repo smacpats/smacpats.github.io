@@ -1,7 +1,7 @@
 <package>
 	<id>io.smacpats.emojiportinstaller</id>
 	<name>EmojiPort Installer</name>
-	<version>1.0.6</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -15,8 +15,7 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Install emojiport and iOS 12.1 emojis in one package! Must have the emojiport repo installed, if you don't already, scroll down and add it. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github.</description>
-   	<description>If you are having a selection bug, update emojiport itself to 1.2.2h or later.</description>
-		<description>DOES NOT WORK ON iOS 10.x KPPLESS JAILBREAKS, AND WILL BREAK CYDIA ON MERIDAN.</description>
+		<description>EmojiPort is broken on Meridan, so don't use this on meridan.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -24,6 +23,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Should save ~50 mb of storage compared to 1.0.5.</change>
+		<change>Updated emoji file (Now has all emojis from 12.1, instead of the ones from just 12.1 beta 1)</change>
 	</changelog>
 </package>
