@@ -1,0 +1,28 @@
+<package>
+	<id>io.smacpats.emojiportinstallerAndroidP</id>
+	<name>EmojiPort Installer (Android P emojis)</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Install emojiport and Android P emojis in one package! Must have the emojiport repo installed. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github.</description>
+		<description>EmojiPort is broken on Meridan, so don't use this on meridan.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>emojis.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

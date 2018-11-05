@@ -45,3 +45,20 @@ Description: Minimalistic volume hud on the notch.
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depiction: http://bit.ly/2O87nCM
 Name: Pikabu Lite
+
+Package: io.smacpats.emojiportinstallerAndroidP
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smacpats
+Depends: com.ps.emojiportwt, mobilesubstrate, firmware (>> 9.3.5)
+Conflicts: io.smacpats.emojiportinstaller
+Filename: debs//Tweaks/emojiport-installer-androidP.deb
+Size: 41830592
+MD5sum: 830d1cc1c45af5b08a4518682b7bbc9b
+SHA1: 50e4e64268909c0c9ab0448ff5ca2bd3d808731a
+SHA256: eb037a67ce51d86f68f61f9c1aee75f11b08764829ccb6a3db71e1dea3e918f3
+Section: EmojiPort
+Description: Install emojiport and Android P emojis automatically
+Author: Smacpats
+Depiction: http://bit.ly/2SONpAz
+Name: EmojiPort Installer (Android P emojis)
