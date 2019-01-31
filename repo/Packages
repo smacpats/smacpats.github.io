@@ -62,3 +62,20 @@ Description: Install emojiport and Android P emojis automatically
 Author: Smacpats
 Depiction: http://bit.ly/2SONpAz
 Name: EmojiPort Installer (Android P emojis)
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: debs//Tweaks/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Depiction: http://bit.ly/2OXuF2y
+Name: CocoaTop
