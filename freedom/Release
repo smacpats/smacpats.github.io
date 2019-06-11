@@ -1,9 +1,0 @@
-Origin: Freedom Repo
-Label: Freedom Repo
-Suite: stable
-Version: 1.0
-Codename: Freedom
-Architectures: iphoneos-arm
-Components: main
-Description: Freedom Repo
-MD5Sum:
