@@ -44,6 +44,7 @@ Section: Tweaks
 Description: Minimalistic volume hud on the notch.
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depiction: http://bit.ly/2O87nCM
+SileoDepiction: http://bit.ly/2zkVvYX
 Name: Pikabu Lite
 
 Package: io.smacpats.emojiportinstallerAndroidP
