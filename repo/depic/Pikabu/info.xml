@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
-			<maxiOS>11.4.1</maxiOS>
+			<maxiOS>12.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This will be up until Jeffrey puts it into another repo and he has not tweeted and his website has been down since April so that is probably never. Options can be configured in settings.</description>
+		<description>Customizable Volume HUD.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

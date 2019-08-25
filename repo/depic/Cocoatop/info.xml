@@ -4,13 +4,13 @@
 	<version>2.0.2-1+debug</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.4.1</maxiOS>
+			<maxiOS>12.4</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>In my repo until the developer submits it into another.</description>
+		<description>Package manager for iOS 11/12!.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
