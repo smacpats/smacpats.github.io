@@ -1,0 +1,82 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "title": "Pikabu",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true,
+                    "markdown": "Custom Volume HUD"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "http://bit.ly/2Zq3Jhe"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://github.com/PikabuCydia/PikabuCydia.github.io/blob/master/depic/Pikabu/screenshots/license.jpg?raw=true"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "Customizable custom volume HUD. Options can be configured in settings. Compatible with iOS 11.0-12.4.",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.1.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "08-25-2019",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "text": "Jeffrey Chan",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "tintColor": "#0657bb",
+    "headerImage": ""
+}
