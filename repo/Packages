@@ -1,34 +1,18 @@
 Package: io.smacpats.emojiportinstaller
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Smacpats
-Depends: com.ps.emojiportwt, mobilesubstrate, firmware (>> 9.3.5)
-Filename: debs//Tweaks/Emojiport-installer1.1.deb
-Size: 54548672
-MD5sum: 7478286d4cc8fc34c7dc3520e71c43be
-SHA1: b4e39e48ff54a51a253515e775629ec4866ae4b2
-SHA256: 5374aef017fe4b9da6f1e6c6486e00f1966d49346f6a8d58c1bbc13f0fdef160
+Depends: com.ps.emojiportpe, mobilesubstrate, firmware (>> 11.4.1)
+Filename: debs//Tweaks/emojiport-installer1.2.deb
+Size: 57999552
+MD5sum: 98cb78d21c293be6243b525ada4e2c1c
+SHA1: 6cac65991334b53c092d093e4a744e6819ffb9fe
+SHA256: a7a11be8c2f8c65d4394704f86afa7b8232422c206b3d569a23301bfd1dbfecb
 Section: EmojiPort
-Description: Install emojiport and iOS 12.1 emojis automatically
+Description: Install emojiport and iOS 13.2 emojis automatically for your iOS 12 device.
 Author: Smacpats
 Depiction: http://bit.ly/2C6rsae
 Name: EmojiPort Installer
-
-Package: io.smacpats.spotifyadblock
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Smacpats
-Conflicts: com.thireus.untrustedhostsblockerexperimental, com.reddestdream.minimalhostsblocker, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
-Filename: debs//Tweaks/Spotify-adblock.deb
-Size: 5740
-MD5sum: c3b2f73848985a1769ab35d002756180
-SHA1: 8e8015975ae0f31474dc075749c38396e2c11472
-SHA256: 94a52f33d75167655856407066a5bfd54e66d905ddb54871f4a9468818b55494
-Section: Tweaks
-Description: spotify adblock.
-Author: Smacpats
-Depiction: http://bit.ly/2D2rBg4
-Name: SpotifyAdBlock
 
 Package: com.jeffrey.pikabulite
 Version: 1.1.0
@@ -46,38 +30,3 @@ Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depiction: http://bit.ly/2O87nCM
 SileoDepiction: http://bit.ly/2zkVvYX
 Name: Pikabu Lite
-
-Package: io.smacpats.emojiportinstallerAndroidP
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: smacpats
-Depends: com.ps.emojiportwt, mobilesubstrate, firmware (>> 9.3.5)
-Conflicts: io.smacpats.emojiportinstaller
-Filename: debs//Tweaks/emojiport-installer-androidP.deb
-Size: 41830592
-MD5sum: 830d1cc1c45af5b08a4518682b7bbc9b
-SHA1: 50e4e64268909c0c9ab0448ff5ca2bd3d808731a
-SHA256: eb037a67ce51d86f68f61f9c1aee75f11b08764829ccb6a3db71e1dea3e918f3
-Section: EmojiPort
-Description: Install emojiport and Android P emojis automatically
-Author: Smacpats
-Depiction: http://bit.ly/2SONpAz
-Name: EmojiPort Installer (Android P emojis)
-
-Package: ru.domo.cocoatop64
-Version: 2.0.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: Smacpats
-Installed-Size: 742
-Conflicts: ru.domo.cocoatop
-Filename: debs//Tweaks/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
-Size: 151514
-MD5sum: c30794b242e73c924db279640dc6eee1
-SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
-SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
-Section: Utilities
-Description: Process Viewer for iOS GUI (64-bit)
-Author: Domo
-Depiction: http://bit.ly/2OXuF2y
-SileoDepiction: http://bit.ly/2U6OcO3
-Name: CocoaTop

@@ -1,11 +1,11 @@
 <package>
 	<id>io.smacpats.emojiportinstaller</id>
 	<name>EmojiPort Installer</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-			<maxiOS>11.4.1</maxiOS>
+			<miniOS>12.0</miniOS>
+			<maxiOS>12.4.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,8 +14,8 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Install emojiport and the latest emojis in one package! Must have the poomstmart emojiport repo in your sources. I Used elements of the source of minimal hosts blocker to make this project. Open sourced on github.</description>
-		<description>Don't try to use this on meridan.</description>
+		<description>Install emojiport and the latest emojis in one package! Must have the poomstmart emojiport repo in your sources. I Used elements of the source of minimal hosts blocker to make this project. </description>
+		<description>Open sourced on github.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -23,6 +23,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Updated emoji file (Now has all emojis from 12.1, instead of the ones from just 12.1 beta 1)</change>
+		<change>Updated emoji file (Now has all emojis from 13.2)</change>
 	</changelog>
 </package>
