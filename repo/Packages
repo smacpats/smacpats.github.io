@@ -12,6 +12,7 @@ Section: EmojiPort
 Description: Install emojiport and iOS 13.2 emojis automatically for your iOS 12 device.
 Author: Smacpats
 Depiction: http://bit.ly/2C6rsae
+SileoDepiction: 
 Name: EmojiPort Installer
 
 Package: com.jeffrey.pikabulite
