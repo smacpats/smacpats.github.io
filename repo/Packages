@@ -31,3 +31,20 @@ Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depiction: http://bit.ly/2O87nCM
 SileoDepiction: http://bit.ly/2zkVvYX
 Name: Pikabu Lite
+
+Package: io.smacpats.emojiportinstaller.11
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: smacpats
+Depends: com.ps.emojiportwt, mobilesubstrate, firmware (>> 9.3.5)
+Filename: debs//Tweaks/emojiport-installer11.deb
+Size: 58009792
+MD5sum: c27b42377fd7ea0e25e4719d31a6da98
+SHA1: 648677236a3daab4622cd51d58d77c02fe5b58c7
+SHA256: ebbb003ce4f124a0f7a9cc5686413674bc44fd7dbe293d7f06355a772e8b0d3a
+Section: EmojiPort
+Description: (Legacy for iOS 10/11) Install emojiport and iOS 13.2 emojis automatically.
+Author: Smacpats
+Depiction: http://bit.ly/2OUI0YP
+SileoDepiction: http://bit.ly/2IXrWlk
+Name: EmojiPort Installer (legacy)

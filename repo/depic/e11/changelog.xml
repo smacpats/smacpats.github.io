@@ -1,0 +1,31 @@
+<changelog>
+	<changes>
+		<version>1.2</version>
+		<change>Updated emoji file (Now has all emojis from 13.2)</change>
+	</changes>
+	<changes>
+		<version>1.1</version>
+		<change>Updated emoji file (Now has all emojis from 12.1, instead of the ones from just 12.1 beta 1)</change>
+	</changes>
+	<changes>
+		<version>1.0.6</version>
+		<change>Should save ~50 mb of storage compared to 1.0.5.</change>
+	</changes>
+	<changes>
+		<version>1.0.5</version>
+		<change>Actual iOS 10 support! Sorry, this was overdue!</change>
+	</changes>
+	<changes>
+		<version>1.0.4</version>
+		<change>iOS 10 support (not for meridan though!)</change>
+	</changes>
+	<changes>
+		<version>1.0.3</version>
+		<change>Saves ~50 MB compared to v1.0.2</change>
+		<change>Upon installation/uninstallation, it now always will prompt you to respring</change>
+	</changes>
+	<changes>
+		<version>1.0.2</version>
+		<change>Bugfix</change>
+	</changes>
+</changelog>
