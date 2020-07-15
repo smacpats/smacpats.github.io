@@ -4,13 +4,13 @@
 	<version>2.0.2-1+debug</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>12.4</maxiOS>
+			<maxiOS>13.5</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Package manager for iOS 11/12!.</description>
+		<description>64 bit proccess manager for iOS 11-13</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -18,7 +18,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>iOS 11 support</change>
+		<change>64 bit support</change>
 	</changelog>
 	<links></links>
 </package>
