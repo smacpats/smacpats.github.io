@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-			<maxiOS>12.4.1</maxiOS>
+			<maxiOS>13.1.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Install emojiport and the latest emojis in one package! Must have the poomstmart emojiport repo in your sources. I Used elements of the source of minimal hosts blocker to make this project. </description>
-		<description>This is the iOS 12 version. If you are on iOS 10/11, use the legacy version instead. </description>
+		<description>This is the iOS 12/13 version. If you are on iOS 10/11, use the legacy version instead. </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
