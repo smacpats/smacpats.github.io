@@ -48,3 +48,19 @@ Author: Smacpats
 Depiction: http://bit.ly/2OUI0YP
 SileoDepiction: http://bit.ly/2IXrWlk
 Name: EmojiPort Installer (legacy)
+
+Package: io.smacpats.windowstheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Smacpats
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs//Tweaks/WinTheme.deb
+Size: 488224
+MD5sum: 19034e71f1472b4e7c7e5e34d903e269
+SHA1: 6f5d6564795abc48449df7907f3c014fd506d032
+SHA256: 4a5030adcef8eea03a9f7fe59f0eaad167f8c1c6f6aa43837c3b4e360f1f38f4
+Section: Themes
+Description: Windows 10 icons on iOS
+Author: Smacpats
+Depiction:
+Name: Windows 10 icons

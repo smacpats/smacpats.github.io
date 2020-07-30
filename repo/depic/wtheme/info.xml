@@ -1,0 +1,27 @@
+<package>
+	<id>io.smacpats.windowstheme</id>
+	<name>Windows Theme</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> A windows 10 style theme. 24 icons as of v1.0. </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>screenshot.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
