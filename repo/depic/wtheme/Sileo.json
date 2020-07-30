@@ -1,0 +1,78 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#0657bb",
+    "headerImage": "",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "WindowsTheme",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "24 Windows 10 icons ported to iOS",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/smacpats/smacpats.github.io/master/repo/depic/wtheme/screenshots/screenshot.png",
+                            "accessibilityText": "Screenshot0"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "24 different windows 10 icons ported to iOS.",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "07-30-2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Smacpats",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ]
+}

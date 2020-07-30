@@ -62,5 +62,6 @@ SHA256: 4a5030adcef8eea03a9f7fe59f0eaad167f8c1c6f6aa43837c3b4e360f1f38f4
 Section: Themes
 Description: Windows 10 icons on iOS
 Author: Smacpats
-Depiction:
+Depiction: https://bit.ly/30cywxv
+SileoDepiction: 
 Name: Windows 10 icons
