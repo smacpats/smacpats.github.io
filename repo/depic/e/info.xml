@@ -1,0 +1,28 @@
+<package>
+	<id>io.smacpats.emojiportinstaller.ip7</id>
+	<name>EmojiPort Installer</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+			<maxiOS>15.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>(For iOS 14 on iPHONE 7 and ABOVE ONLY!)Install emojiport and the latest emojis in one package! Must have the poomstmart emojiport repo in your sources. I Used elements of the source of minimal hosts blocker to make this project. </description>
+		<description></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>emojis.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Updated emoji file (Now has all emojis from 15.4)</change>
+	</changelog>
+</package>
