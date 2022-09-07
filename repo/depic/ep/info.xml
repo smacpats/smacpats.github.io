@@ -1,0 +1,27 @@
+<package>
+	<id>milkyway2</id>
+	<name>Milkyway 2 fixed</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+			<maxiOS>14.8.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Milkyway 2 fixed. Sourced from https://www.reddit.com/r/jailbreak_/comments/p3cig4/guide_get_milkyway_2_on_ios_14_the_best/ </description>
+		<description></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
