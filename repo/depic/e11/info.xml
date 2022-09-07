@@ -1,0 +1,27 @@
+<package>
+	<id>Relocate</id>
+	<name>Relocate</name>
+	<version>1.01</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>14.8.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Relocate Reborn. Sourced from https://archive.org/details/relocate-tweak-module-and-app </description>
+		<description></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+</package>
